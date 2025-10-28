@@ -1,4 +1,5 @@
 # Retail Sales Performance Analysis – Power BI Project
+A data-driven retail analysis project uncovering sales, profit, and discount insights using Power BI.
 
 ## Overview
 This project analyzes retail sales, profit trends, and regional performance using Excel and Power BI.  
